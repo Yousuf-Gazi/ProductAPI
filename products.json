@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Apple Macbook",
+    "price": 999,
+    "description": "This is apple's latest product",
+    "id": "PROD-xeckiygack"
+  },
+  {
+    "name": "Apple Watch Ultra",
+    "price": 699,
+    "description": "Time and tide wait for none.",
+    "id": "PROD-xk18cv0rfg"
+  },
+  {
+    "name": "Iphone 14 Pro",
+    "price": 499,
+    "description": "Designed for durability.",
+    "id": "PROD-2281jsepq4"
+  }
+]
